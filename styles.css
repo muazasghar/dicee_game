@@ -51,21 +51,6 @@ footer {
   text-align: center;
   font-family: "Indie Flower", cursive;
 }
-@media (max-width: 768px) {
-  .container {
-    width: 90%;
-  }
-
-  h1 {
-    font-size: 3rem;
-    margin: 20px;
-    white-space: nowrap;
-  }
-
-  p {
-    font-size: 1.5rem;
-  }
-
   .dice {
     text-align: center;
     display: inline-block;
